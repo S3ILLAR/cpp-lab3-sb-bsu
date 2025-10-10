@@ -1,2 +1,2 @@
-# cpp-lab3-sb-bsu1
+# cpp-lab3-sb-bsu
 
